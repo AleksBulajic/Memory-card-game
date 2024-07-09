@@ -8,7 +8,7 @@ body {
    background-image: url("https://c4.wallpaperflare.com/wallpaper/189/663/626/anime-clouds-sky-anime-wallpaper-preview.jpg");
    background-repeat: no-repeat;
    background-size: cover;
-    height: 100vh;
+    height: 100%;
      /* background-color: grey; */
      display: flex;
      flex-direction: column;
